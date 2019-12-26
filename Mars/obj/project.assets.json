@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\ituncer\\source\\repos\\Mars\\Mars\\Mars.csproj",
+      "projectUniqueName": "D:\\Users\\ituncer\\Desktop\\mars-master\\Mars\\Mars.csproj",
       "projectName": "Mars",
-      "projectPath": "D:\\Users\\ituncer\\source\\repos\\Mars\\Mars\\Mars.csproj",
+      "projectPath": "D:\\Users\\ituncer\\Desktop\\mars-master\\Mars\\Mars.csproj",
       "packagesPath": "D:\\Users\\ituncer\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\ituncer\\source\\repos\\Mars\\Mars\\obj\\",
+      "outputPath": "D:\\Users\\ituncer\\Desktop\\mars-master\\Mars\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
