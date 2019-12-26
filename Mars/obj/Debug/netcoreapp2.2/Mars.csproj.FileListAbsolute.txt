@@ -1,0 +1,11 @@
+D:\Users\ituncer\source\repos\Mars\Mars\bin\Debug\netcoreapp2.2\Mars.deps.json
+D:\Users\ituncer\source\repos\Mars\Mars\bin\Debug\netcoreapp2.2\Mars.runtimeconfig.json
+D:\Users\ituncer\source\repos\Mars\Mars\bin\Debug\netcoreapp2.2\Mars.runtimeconfig.dev.json
+D:\Users\ituncer\source\repos\Mars\Mars\bin\Debug\netcoreapp2.2\Mars.dll
+D:\Users\ituncer\source\repos\Mars\Mars\bin\Debug\netcoreapp2.2\Mars.pdb
+D:\Users\ituncer\source\repos\Mars\Mars\obj\Debug\netcoreapp2.2\Mars.csprojAssemblyReference.cache
+D:\Users\ituncer\source\repos\Mars\Mars\obj\Debug\netcoreapp2.2\Mars.csproj.CoreCompileInputs.cache
+D:\Users\ituncer\source\repos\Mars\Mars\obj\Debug\netcoreapp2.2\Mars.AssemblyInfoInputs.cache
+D:\Users\ituncer\source\repos\Mars\Mars\obj\Debug\netcoreapp2.2\Mars.AssemblyInfo.cs
+D:\Users\ituncer\source\repos\Mars\Mars\obj\Debug\netcoreapp2.2\Mars.dll
+D:\Users\ituncer\source\repos\Mars\Mars\obj\Debug\netcoreapp2.2\Mars.pdb
